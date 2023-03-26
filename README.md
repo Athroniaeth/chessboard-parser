@@ -8,10 +8,10 @@ To use Chessboard Parser, simply call the chessboard_parser.py script with the p
 ```py
 python chessboard_parser.py path/to/input/image.png
 ```
-## Installation (future feature)
+## Installation
 To install Chessboard Parser, you will need to have Python 3.x installed on your system. Once Python is installed, you can use pip to install the required dependencies:
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar. (future feature)
+(Future feature) Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
 
 ```bash 
 pip install chessboard-parser
