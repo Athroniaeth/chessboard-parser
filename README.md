@@ -1,8 +1,7 @@
 # chessboard-parser
 Chessboard Parser is a Python application that takes an image as input and analyzes the image to provide a link to lichess, chess.com, or a FEN (Forsyth–Edwards Notation) representation of the chessboard. The application is open source under the MIT license and welcomes contributions from anyone interested in helping to develop the project.
 
-## My first public git-project
-This is my first public git project, any explanation of good practices or contribution is welcome
+This is my first public git project, any explanation of good practices or contribution is welcome :)
 
 ## Usage
 To use Chessboard Parser, simply call the chessboard_parser.py script with the path to the input image as an argument:
